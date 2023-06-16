@@ -1,0 +1,157 @@
+
+.container-fluid{
+    padding: 10px;
+    margin: 0 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+/* ======================================================== */
+.nav-item{
+    padding: 10px;
+    margin: 0 10px;
+   
+}
+.nav-link{
+    color: white;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
+/* ============================================================== */
+#section1{
+    margin-right: 0;
+    background-color: black;
+    color: white;
+}
+.fw-bolder{
+    margin-top: 150px;
+    font-size: 7rem;
+}
+.line-white{
+    border: 6px solid white;
+}
+.paragraph1{
+    font-size: 2rem;
+    font-family: "Playfair Display",serif;
+
+}
+.Buy-btn{
+    padding: 1rem 3rem;
+    background-color: #ff9285;
+    outline: none;
+    letter-spacing: 2px;
+    
+}
+.Buy-btn:hover{
+    background-color:  #ffa297;
+}
+
+.sections{
+    background-color: black;}
+.photo{
+    margin-top: 80px;
+}
+.photo a{
+    font-family: "Playfair Display",serif;
+    text-decoration: none;
+    color: white;
+}
+.view{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.view .btn{
+    padding:1rem 3rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border: 1px solid #f2f1f1;
+    text-align: center;
+    color:  #f2f1f1;
+    background-color: black;
+    letter-spacing: 2px;
+    margin: 60px;
+}
+.view .btn:hover{
+    background-color: #f2f1f1;
+    
+    color: black;}
+/* ============================================================================ */
+
+#section2{
+    margin:  6rem auto ;
+}
+
+.small {
+    font-size: 1rem;
+    font-weight: bold;
+}
+.quote {
+    font-size: 2rem;
+}
+/* ======================================================================= */
+#section3{
+    background-color: black;
+    color: white;
+}
+.accordion-button{
+    background-color: black;
+    color: white;
+    font-family: "Playfair Display",serif;
+}
+/* ======================================================================= */
+.card > p{
+    background-color:var(--bs-border-color-translucent);
+    font-size: 3.5rem;
+    color: black;
+}
+.Single_Site{
+    margin-top: 0;
+}
+
+.card .card2-paragraph{
+    background-color:#ff9285;
+}
+/* ==================================================================== */
+#section6{
+    background-color: #ff9285;
+    margin-top: 30px;
+}
+.buy-btn{
+
+    padding:1rem 3rem;
+    font-size: 0.9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    border: 1px solid black;
+    text-align: center;
+    color:  black;
+    background-color:#ff9285;
+    letter-spacing: 2px;
+
+
+}
+.view{
+    text-decoration: none;
+}
+.buy-btn:hover{
+    background-color: black;
+    color: white;
+
+}
+
+.foot{
+    padding: 100px;
+
+}
+.foot a,p{
+    text-decoration: none;
+    color: gray;
+    font-size: 1rem;
+
+}
+footer{
+    background-color: #e8e7e8;
+}
